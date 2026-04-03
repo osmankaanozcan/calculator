@@ -1,4 +1,4 @@
-function AnalizPro_V8()
+function axa()
     fig = uifigure('Name', 'Basic Calculator', 'Position', [100 100 850 650]);
 
     % NOTLAR ve TUŞLAR
