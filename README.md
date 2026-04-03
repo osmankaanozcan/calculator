@@ -1,7 +1,7 @@
 -
-girdiğiniz fonksiyonun;-
+girdiğiniz fonksiyonun;
 
-türevini -
+türevini;
 belirli/belirsiz integralini -
 köklerini -
 polinom bölmesini -
