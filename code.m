@@ -1,8 +1,8 @@
 function AnalizPro_V8()
-    fig = uifigure('Name', 'Analiz Pro V8', 'Position', [100 100 850 650]);
+    fig = uifigure('Name', 'Basic Calculator', 'Position', [100 100 850 650]);
 
     % NOTLAR ve TUŞLAR
-    uilabel(fig, 'Position', [20 610 500 25], 'Text', '⚠️ NOT: Payda yoksa "1" bırakın. Bölme işleminde Pay, Paydaya bölünür.', ...
+    uilabel(fig, 'Position', [20 610 500 25], 'Text', '⚠️ NOT: Payda yoksa "1" bırakın. ☻.', ...
         'FontWeight', 'bold', 'FontColor', [0.7 0.2 0]);
 
     uilabel(fig, 'Position', [20 570 100 22], 'Text', 'PAY f(x):', 'FontWeight', 'bold');
